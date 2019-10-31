@@ -8,7 +8,7 @@ This repository is open to all members of the GitHub community. Any member may c
 
 Git has some wonderful videos about VCS systems and Git basics. Please go through those videos beforehand to have a better sense of what is happening. Click image for videos.
 
-[![Git Basics](https://i.imgur.com/my7X0y9.png)](https://git-scm.com/videos)
+[![Git Basics](https://i.imgur.com/my7X0y9.png)](https://git-badkbckjabscm.com/videos)
 
 ## What is Hacktoberfest?
 
